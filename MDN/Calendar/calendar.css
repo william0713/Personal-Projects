@@ -1,0 +1,41 @@
+body {	
+	margin: 0 auto;
+	text-align: center;
+	background-color: #9AA5BF;
+	color: #010E2E;
+}
+
+li {
+	width: 28%;
+	height: 40px;
+	background-color: #C0D2FB;
+	float: left;
+	color: #010E2E;
+	margin: 2.5px;
+	list-style: none;
+	border: 1px solid #C0D2FB;
+	border-radius: 10%;
+	padding-top: 20px;
+}
+
+h1 {
+	position: relative;
+	padding: 10px 0 30px 0;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #2B4173;
+	color: white;
+	height: 40px;
+	font-size: 3em;
+	letter-spacing: 5px;
+}
+
+#boxes {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+#selectMonth {
+	padding-top: 20px;
+	margin: 0 auto;
+}
